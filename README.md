@@ -1,2 +1,1 @@
-# Customer-Acquisition-Cost-CAC-Analysis
-Using Python to calculate Customer Acquisition Cost (CAC) to help businesses optimize their marketing strategies.
+This project analyzes Customer Acquisition Cost (CAC) using Python to help businesses optimize their marketing strategies. It calculates CAC across various channels, identifies cost-effective methods, analyzes conversion rates, and visualizes break-even points for profitability.
